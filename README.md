@@ -9,3 +9,4 @@ There are 4 tables here
 4. USERS - The ID of a user is the primary key here
 
 
+Men are the lowest users
