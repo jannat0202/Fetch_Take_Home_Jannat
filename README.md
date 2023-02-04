@@ -9,5 +9,8 @@ There are 4 tables here
 4. USERS - The ID of a user is the primary key here
 
 
-Men are the lowest users
-Apple is the highest sign up source
+Men are the lowest users.
+
+Apple is the highest sign up source.
+
+Walmart has the maximum number of receipts.
